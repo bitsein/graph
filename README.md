@@ -36,3 +36,6 @@ http://www.example.org/dummy/
 9 7  
 9 8   
 出力はsample.png  
+  
+## sccについて  
+強連結成分分解を行う。上のテキストファイルに対する出力はsample2.png
